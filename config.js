@@ -18,20 +18,20 @@ global.APIKeys = {
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.REACT_NUMBER = '94760155633' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
-global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
-global.group1 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Vihanga MD*' //මෙතන නම.
-global.img = 'https://telegra.ph/file/88d6fdeff08bbc4945901.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
-global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
+global.owner = ['94760155633',''] //මෙතන number එක.
+global.premium = ['94760155633',''] //මෙතන number එක.
+global.botname = 'RED DRAGON BOT' //මෙතන නම.
+global.ownername = 'CHATHUMINA' //මෙතන නම.
+global.ownername = 'CHATHUMINA' //මෙතන නම.
+global.group1 = 'https://sites.google.com/view/chathuminabot/home' //මෙතන grouplink එක.
+global.group2 = 'https://sites.google.com/view/chathuminabot/home' //මෙතන grouplink එක.
+global.packname = 'RED DRAGON' //මෙතන නම.
+global.cap = '*By CHATHUMINA*' //මෙතන නම.
+global.img = 'https://telegra.ph/file/ce777d969f7319cc2dbc7.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.ytchannel = 'https://sites.google.com/view/chathuminabot/home' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
 global.besiAwal = '15' //මෙතන මාරු කරන්න එපා.
